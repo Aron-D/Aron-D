@@ -1,6 +1,6 @@
 ### Why hello there 👋
 
-- 🔭 I’m currently working on Netfish, a mimic of neflix
-- 🌱 I’m currently learning Python and C#
-- 📫 How to reach me: info@arondosti.com - www.arondosti.com
+- 🔭 I’m currently in intern. no coding to see here...
+- 🌱 I’m currently learning 9 to 5 working.
+- 📫 How to reach me: not
 - ⚡ Fun fact: Coding without stackoverflow is impossible.
