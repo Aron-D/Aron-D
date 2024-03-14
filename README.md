@@ -1,6 +1,8 @@
-### Why hello there 👋
+### hello there 👋
 
-- 🔭 I’m currently learning Network and Systems Engineering.
-- 🌱 I’m currently learning Routing & Switching, Cybersecurity and Logic & Digital Systems.
-- 📫 How to reach me: not
-- ⚡ Fun fact: You get a lot of brainfarts when learning advanced Computer science.
+- 🔭 I’m currently in the study Networking and Systems Engineering (NSE).
+- 🌱 currently learning Embedded programming with STM, C-programming and Discrete maths.
+- 🌱 Coding experience: C-programming (intermediate), C++ (Experienced), Python (beginner), Java (Experienced), PHP (not my interest, Experienced), Javascript (not my interest, intermediate)
+- 🌱 Automation experience: PLC-engineering (intermediate), SCL-coding (Experienced), Stepwise programming in SCL (Experienced), HMI-design (Experienced)
+- 🌱 Embedded experience: Microbit with Arduino ide (C-coding), Arduino, Rockpi, Nucleo
+- 📫 How to reach me: I will reach you.
