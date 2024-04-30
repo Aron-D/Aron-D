@@ -1,4 +1,4 @@
-### hello there 👋
+### Hello there! 👋
 
 - 🔭 I’m currently in the study Networking and Systems Engineering (NSE).
 - 🌱 currently learning Embedded programming with STM, C-programming and Discrete maths.
